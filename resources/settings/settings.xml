@@ -1,0 +1,15 @@
+<settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+
+  <setting propertyKey="@Properties.StartNightTime" title="@Strings.StartNightModeTitle">
+    <settingConfig type="alphaNumeric" maxLength="5" />
+  </setting>
+
+  <setting propertyKey="@Properties.EndNightTime" title="@Strings.EndNightModeTitle">
+    <settingConfig type="alphaNumeric" maxLength="5" />
+  </setting>
+
+  <setting propertyKey="@Properties.nightModeEnabled" title="@Strings.NightModeTitle">
+    <settingConfig type="boolean" />
+  </setting>
+
+</settings>

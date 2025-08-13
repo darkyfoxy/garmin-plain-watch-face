@@ -1,0 +1,9 @@
+<strings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+
+    <string id="AppName">PlainView</string>
+
+    <string id="StartNightModeTitle">Start night mode time (example: 23:00)</string>
+    <string id="EndNightModeTitle">End night mode time (example: 07:40)</string>
+    <string id="NightModeTitle">Night Mode</string>
+
+</strings>

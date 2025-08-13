@@ -1,0 +1,32 @@
+<drawables xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" dithering="none" />
+    <bitmap id="battery_100" filename="battery_100.png" dithering="none" />
+    <bitmap id="battery_90" filename="battery_90.png" dithering="none" />
+    <bitmap id="battery_80" filename="battery_80.png" dithering="none" />
+    <bitmap id="battery_70" filename="battery_70.png" dithering="none" />
+    <bitmap id="battery_60" filename="battery_60.png" dithering="none" />
+    <bitmap id="battery_50" filename="battery_50.png" dithering="none" />
+    <bitmap id="battery_40" filename="battery_40.png" dithering="none" />
+    <bitmap id="battery_30" filename="battery_30.png" dithering="none" />
+    <bitmap id="battery_20" filename="battery_20.png" dithering="none" />
+    <bitmap id="battery_10" filename="battery_10.png" dithering="none" />
+    <bitmap id="step_goal" filename="step_goal.png" dithering="none" />
+    <bitmap id="step" filename="step.png" dithering="none" />
+    <bitmap id="heart_warning" filename="heart_warning.png" dithering="none" />
+    <bitmap id="heart_error" filename="heart_error.png" dithering="none" />
+    <bitmap id="heart_normal" filename="heart_normal.png" dithering="none" />
+    <bitmap id="body_battary_0" filename="body_battary_0.png" dithering="none" />
+    <bitmap id="body_battary_20" filename="body_battary_20.png" dithering="none" />
+    <bitmap id="body_battary_40" filename="body_battary_40.png" dithering="none" />
+    <bitmap id="body_battary_60" filename="body_battary_60.png" dithering="none" />
+    <bitmap id="body_battary_80" filename="body_battary_80.png" dithering="none" />
+    <bitmap id="cal" filename="cal.png" dithering="none" />
+    <bitmap id="stress_80" filename="stress_80.png" dithering="none" />
+    <bitmap id="stress_60" filename="stress_60.png" dithering="none" />
+    <bitmap id="stress_40" filename="stress_40.png" dithering="none" />
+    <bitmap id="stress_20" filename="stress_20.png" dithering="none" />
+    <bitmap id="message" filename="message.png" dithering="none" />
+    <bitmap id="bluetooth" filename="bluetooth.png" dithering="none" />
+    <bitmap id="distance" filename="distance.png" dithering="none" />
+    <bitmap id="alarm" filename="alarm.png" dithering="none" />
+</drawables>
