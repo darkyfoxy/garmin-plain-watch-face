@@ -1,11 +1,21 @@
 # Simple & Readable Watch Face for Garmin Vivoactive 6
 
-![Main Watch Face](./img/main.png)
+<p align="center">
+  <img src="./img/main.png" alt="Main Watch Face Preview" width="300">
+</p>
 
-[![License](https://img.shields.io/github/license/darkyfoxy/garmin-plain-watch-face)](LICENSE)
-[![Garmin Connect IQ](https://img.shields.io/badge/ConnectIQ-WatchFace-blue)](https://developer.garmin.com/connect-iq/overview/)
-[![Platform](https://img.shields.io/badge/Device-Vivoactive%206-green)](#)
-[![Issues](https://img.shields.io/github/issues/darkyfoxy/garmin-plain-watch-face)](https://github.com/darkyfoxy/garmin-plain-watch-face/issues)
+<p align="center">
+  <a href="https://developer.garmin.com/connect-iq/">
+    <img src="https://img.shields.io/badge/Platform-Garmin%20Connect%20IQ-blue" alt="Garmin Connect IQ">
+  </a>
+  <a href="https://www.garmin.com/">
+    <img src="https://img.shields.io/badge/Device-Vivoactive%206-green" alt="Vivoactive 6">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/License-MIT-orange" alt="License MIT">
+  </a>
+</p>
+
 
 ---
 
