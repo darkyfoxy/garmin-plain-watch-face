@@ -63,5 +63,5 @@ If you would like to see support for other devices — please open an [issue](ht
 ---
 
 ## 🚀 Installation
-1. Download from the [Garmin Connect IQ Store](#).
+1. Download from the [Garmin Connect IQ Store](https://apps.garmin.com/apps/d3c66715-d990-4174-9bdd-ac32caae6c90).
 
